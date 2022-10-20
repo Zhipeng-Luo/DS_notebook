@@ -26,7 +26,7 @@ Book/Paper | Author(s) | Year
 [Data Science for Business](./Assets/reference/Data%20Science%20for%20Business%20What%20You%20Need%20to%20Know%20About%20Data%20Mining%20and%20Data-Analytic%20Thinking%20by%20Foster%20Provost%2C%20Tom%20Fawcett.pdf) | Foster Provost & Tom Fawcett | 2013
 [What Data Scientists Really Do](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists) | Hugo Bowne-Anderson | 2018
 [The Gambler's Fallacy and The Law of Small Numbers](https://bjlkeng.github.io/posts/gamblers-fallacy-and-the-law-of-small-numbers/) | Brian Keng | 2015
-[Thinking Fast and Slow](https://bjlkeng.github.io/posts/gamblers-fallacy-and-the-law-of-small-numbers/) | Daniel Kahneman | 2011
+[Thinking Fast and Slow](./Assets/reference/Thinking%2C%20Fast%20and%20Slow.pdf) | Daniel Kahneman | 2011
 
 - Multimedia Sources
   - [DataFramed](https://www.datacamp.com/podcast)

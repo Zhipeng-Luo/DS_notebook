@@ -22,7 +22,7 @@ It is dangerous to make inference about the whole population from a small sample
 
 Book/Paper | Author(s) | Year
 --- | --- | ---
-[Data Scientists at Work](.Assets/reference/Data%20Scientists%20at%20Work%20(Sebastian%20Gutierrez).pdf) | Sebastian Gutierrez | 2014
+[Data Scientists at Work](./Assets/reference/Data%20Scientists%20at%20Work%20(Sebastian%20Gutierrez).pdf) | Sebastian Gutierrez | 2014
 [Data Science for Business](./Assets/reference/Data%20Science%20for%20Business%20What%20You%20Need%20to%20Know%20About%20Data%20Mining%20and%20Data-Analytic%20Thinking%20by%20Foster%20Provost%2C%20Tom%20Fawcett.pdf) | Foster Provost & Tom Fawcett | 2013
 [What Data Scientists Really Do](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists) | Hugo Bowne-Anderson | 2018
 [The Gambler's Fallacy and The Law of Small Numbers](https://bjlkeng.github.io/posts/gamblers-fallacy-and-the-law-of-small-numbers/) | Brian Keng | 2015

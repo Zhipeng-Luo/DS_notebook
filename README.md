@@ -17,4 +17,6 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
 
 ### Reference
 
-
+Name | Author(s) | Year |
+--- | --- | ---
+[Data Scientists at Work]() |

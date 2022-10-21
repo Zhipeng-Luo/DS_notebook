@@ -56,7 +56,7 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
 - **Simpson's Paradox** could be resolved by conditioning on the third variable. 
 - **Confounders**, **Mediators**, **Colliders**, **M-bias**
 
-| <img src="./Assets/images/variable_bias.png" width="400" height="400" /> |
+| <img src="./Assets/images/variable_bias.png" width="600" height="400" /> |
 |:--:|
 | [*DAGs, visualising Confounding, Mediation, Collider and M-Bias*](https://theoreticalecology.wordpress.com/2019/04/14/mediators-confounders-colliders-a-crash-course-in-causal-inference/) |
 

@@ -38,6 +38,18 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
   - Connect textual statements to underlying results
   - Provide public access to scripts, runs, and results
 
+### Overfitting
+---
+- **Overfitting** means the model doesn't perform well on unseen data, which is a common problem in machine learning. 
+- **Signal**, the true underlying pattern, is what we want the algorithm to learn from the training data. However, **Noise**, the irrelevant information in the dataset can lead to overfitting after learned by the algorithm.
+- The trade-off between high bias vs high variance should be considered for all supervised learning algorithms.
+
+| <img src="./Assets/images/bias_variance_tradeoff.png" width="400" height="400" /> |
+|:--:|
+| [*Bias and Variance*](http://scott.fortmann-roe.com/docs/BiasVariance.html) |
+
+- **Cross-validation** is a useful tool against overfitting. The other tools include **Feature selection**, **Early stopping**, **Regularization**, etc.
+
 ### Reference
 ---
 - Books & Papers
@@ -53,6 +65,8 @@ Book/Paper | Author(s) | Year
 [Data Cleaning 101](https://towardsdatascience.com/data-cleaning-101-948d22a92e4) | Brendan Bailey | 2017
 [10 Rules for creating reproducible results in data science](https://dataconomy.com/2017/07/10-rules-results-data-science/) | Andrew Tait | 2017
 [Data cleansing](https://en.wikipedia.org/wiki/Data_cleansing) | Wikipedia | - 
+[Overfitting in Machine Learning](https://elitedatascience.com/overfitting-in-machine-learning) | ELITEDS | 2022
+[Improve Your Model Performance using Cross Validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/) | Sunil Ray | 2020
 
 
 - Multimedia Sources

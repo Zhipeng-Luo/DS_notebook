@@ -50,6 +50,16 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
 
 - **Cross-validation** is a useful tool against overfitting. The other tools include **Feature selection**, **Early stopping**, **Regularization**, etc.
 
+### Causality
+---
+- Correlation is not causation
+- **Simpson's Paradox** could be resolved by conditioning on the third variable. 
+- **Confounders**, **Mediators**, **Colliders**, **M-bias**
+
+| <img src="./Assets/images/variable_bias.png" width="600" height="400" /> |
+|:--:|
+| [*DAGs, visualising Confounding, Mediation, Collider and M-Bias*](https://theoreticalecology.wordpress.com/2019/04/14/mediators-confounders-colliders-a-crash-course-in-causal-inference/) |
+
 ### Reference
 ---
 - Books & Papers
@@ -67,6 +77,7 @@ Book/Paper | Author(s) | Year
 [Data cleansing](https://en.wikipedia.org/wiki/Data_cleansing) | Wikipedia | - 
 [Overfitting in Machine Learning](https://elitedatascience.com/overfitting-in-machine-learning) | ELITEDS | 2022
 [Improve Your Model Performance using Cross Validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/) | Sunil Ray | 2020
+[Spurious correlations](https://tylervigen.com/spurious-correlations) | Tyler Vigen | - 
 
 
 - Multimedia Sources

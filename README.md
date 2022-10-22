@@ -53,6 +53,7 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
 ### Causality
 ---
 - Correlation is not causation
+- **p-hacking**,also known as data dredgin or data snooping, is about testing multiple hypotheses using the same data, which increasing the risk of false positive.
 - **Simpson's Paradox** could be resolved by conditioning on the third variable. 
 - **Confounders**, **Mediators**, **Colliders**, **M-bias**
 

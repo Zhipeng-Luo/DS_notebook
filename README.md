@@ -61,6 +61,14 @@ Another popular recognized analytics model is known as **CRISP-DM**, which is sh
 |:--:|
 | [*DAGs, visualising Confounding, Mediation, Collider and M-Bias*](https://theoreticalecology.wordpress.com/2019/04/14/mediators-confounders-colliders-a-crash-course-in-causal-inference/) |
 
+
+### Story Telling
+---
+- Data can't speak for itself. If the insights are crutial to the success, data scientist have the duty to communicate them clearly in a timely manner.
+- Know your audience. Even though logic and insights are important, decision making is more likely to be triggered by emotion.
+- A picture is worth a thousand words.
+- Accuracy is not enough. Interpretability is vital for machine learning.
+
 ### Reference
 ---
 - Books & Papers
@@ -79,6 +87,8 @@ Book/Paper | Author(s) | Year
 [Overfitting in Machine Learning](https://elitedatascience.com/overfitting-in-machine-learning) | ELITEDS | 2022
 [Improve Your Model Performance using Cross Validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/) | Sunil Ray | 2020
 [Spurious correlations](https://tylervigen.com/spurious-correlations) | Tyler Vigen | - 
+[p-Hacking and Multiple Comparisons Bias](https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture23-p-Hacking-and-Multiple-Comparisons-Bias.ipynb.html) | QuantRocket | -
+
 
 
 - Multimedia Sources

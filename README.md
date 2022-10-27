@@ -94,3 +94,23 @@ Book/Paper | Author(s) | Year
 - Multimedia Sources
   - [DataFramed](https://www.datacamp.com/podcast)
  
+
+
+## 2. Deep Learning
+
+- [Convolutional Networks](https://www.deeplearningbook.org/contents/convnets.html)
+- [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/)
+
+
+### Reference
+---
+- Books & Papers
+
+Book/Paper | Author(s) | Year
+--- | --- | ---
+[An overview of gradient descent optimization](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder | 2016
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html) | Michael Nielsen | 2019
+[A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) | Matt Mazur | 2015
+
+
+
